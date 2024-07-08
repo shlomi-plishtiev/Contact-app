@@ -6,6 +6,14 @@
 body {
   background-color: #338cf4;
 }
+.menu {
+  background: #d90707;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
 .container {
   background-color: #ffffff;
   width: 90vmin;
